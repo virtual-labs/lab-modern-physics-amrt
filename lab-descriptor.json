@@ -15,21 +15,21 @@
     "name": "Franck-Hertz Experiment",
     "short-name": "franck-hertz-experiment",
     "repo": "https://github.com/virtual-labs/exp-franck-hertz-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Photoelectric Effect",
     "short-name": "photoelectric-effect",
     "repo": "https://github.com/virtual-labs/exp-photoelectric-effect-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Determination of Planck's Constant",
     "short-name": "determination-plancks-constant",
     "repo": "https://github.com/virtual-labs/exp-determination-plancks-constant-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {

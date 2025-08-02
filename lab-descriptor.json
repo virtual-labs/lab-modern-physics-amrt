@@ -15,42 +15,42 @@
     "name": "Franck-Hertz Experiment",
     "short-name": "franck-hertz-experiment",
     "repo": "https://github.com/virtual-labs/exp-franck-hertz-amrt",
-    "tag": "v1.0.2",
+    "tag": "v1.0.3",
     "deploy": true
   },
   {
     "name": "Photoelectric Effect",
     "short-name": "photoelectric-effect",
     "repo": "https://github.com/virtual-labs/exp-photoelectric-effect-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Determination of Planck's Constant",
     "short-name": "determination-plancks-constant",
     "repo": "https://github.com/virtual-labs/exp-determination-plancks-constant-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Abbe's Refractometer",
     "short-name": "abbes-refractometer",
     "repo": "https://github.com/virtual-labs/exp-abbes-refractometer-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Emission Spectra",
     "short-name": "emission-spectra",
     "repo": "https://github.com/virtual-labs/exp-emission-spectra-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Millikan's Oil Drop Experiment",
     "short-name": "millikans-oil-drop-experiment",
     "repo": "https://github.com/virtual-labs/exp-millikans-oil-drop-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
